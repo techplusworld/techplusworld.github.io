@@ -2,10 +2,11 @@
 	font-size: 1.5em;
 	font-family: 'Adamina', serif;
 	margin-top: 1em;
+	color: #050505;
 }
 
 .sidebar {
-	border-right: 1px solid #333;
+	border-right: 1px solid #5E2330;
 }
 
 .main {
@@ -20,6 +21,10 @@ a {
 	color: black;
 }
 
+#navigation-bar {
+	border-top: 1px solid #5E2330;
+}
+
 #book-img {
 	margin-top: 4em;
 	margin-bottom: 30em;
@@ -29,11 +34,16 @@ a {
 	font-size: 12.5em;
 	margin-top: .1em;
 	font-family: 'Adamina', serif;
+	color: #050505;
 }
 
 hr {
 	width:90%;
 	height:1px;
-	background: #333;
+	background: #5E2330;
 	margin-bottom: 0;
+}
+
+.color {
+	background: #5E2330;
 }
