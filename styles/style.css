@@ -1,0 +1,39 @@
+.nav-sidebar {
+	font-size: 1.5em;
+	font-family: 'Adamina', serif;
+	margin-top: 17.2em;
+}
+
+.sidebar {
+	border-right: 1px solid #333;
+}
+
+.main {
+	padding-left: 5em;
+}
+
+.nav-sidebar li :hover {
+	color: purple;
+}
+
+a {
+	color: black;
+}
+
+#book-img {
+	margin-top: 5em;
+	margin-bottom: 1em;
+}
+
+#site-title {
+	font-size: 12.5em;
+	margin-top: 2em;
+	font-family: 'Adamina', serif;
+}
+
+hr {
+	width:90%;
+	height:1px;
+	background: #333;
+	margin-bottom: 0;
+}
